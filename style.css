@@ -95,7 +95,7 @@ body{
     background-color: var(--cor-hover);
 }
 .apresentacao__imagem{
-    width: 50%;
+    width: 60%;
 }
 .rodape{
     color: var(--cor-primaria);
